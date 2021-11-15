@@ -1,0 +1,5 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+15:50:16	96/96	---MCZ	200	added ('OK')	text/plain	etag:W/%226120d1f5-50%22	https://tannerrogalsky.com/robots.txt		(from )
+15:50:16	4013/4013	---MCZ	200	added ('OK')	text/html	date:Sat,%2021%20Aug%202021%2010:14:12%20GMT	https://tannerrogalsky.com/mari0/	D:/mari0/tannerrogalsky.com/mari0/index.html	(from )
+15:50:16	76547/76547	---M-Z	200	added ('OK')	application/javascript	etag:W/%226120d1f4-12b03%22	https://tannerrogalsky.com/mari0/game.js	D:/mari0/tannerrogalsky.com/mari0/game.js	(from https://tannerrogalsky.com/mari0/)
+15:50:18	6226080/6226080	---M-Z	200	added ('OK')	application/javascript	etag:W/%226120d1f4-5f00a0%22	https://tannerrogalsky.com/love.js	D:/mari0/tannerrogalsky.com/love.js	(from https://tannerrogalsky.com/mari0/)
